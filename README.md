@@ -5,7 +5,6 @@
 
 - 💬 Ask me about **anything on Twitter @AliHate21071474**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
