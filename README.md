@@ -3,4 +3,4 @@
 
 - 👯 I’m looking to collaborate on **React Projects**
 
-- 💬 Ask me about **anything on Twitter [@AliHate21071474](https://twitter.com/AliHate21071474)**
+- 💬 Ask me about **anything on Twitter**
