@@ -1,4 +1,4 @@
-<img align="left" height="260" src="https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif"  style="margin-left : 20px "/>
+<img align="right" height="260" src="https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif"  />
 
 ###
 
