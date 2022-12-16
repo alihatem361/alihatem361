@@ -1,3 +1,20 @@
+<img align="left" height="260" src="https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif"  style="margin-left : 20px "/>
+
+###
+
+<h1 align="left">Hi 👋, I'm Ali Hatem</h1>
+
+###
+
+<h2 align="left">A Frontend Developer(React.js) 👩‍💻</h2>
+
+###
+
+<p align="left">- I’m looking to collaborate on ReactJS Projects 🙌<br><br>- Ask me about anything on LinkedIn ⚡</p>
+
+###
+
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
