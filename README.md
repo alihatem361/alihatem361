@@ -1,36 +1,36 @@
-<img align="right" height="260" src="https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif"  />
+<!-- 
+add animation for all body elements
+
+ -->
+<img align="right" height="260" src="https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif" 
+  style="border-radius: 50%; margin: 0 0 0 0; padding: 0 0 0 0; border: 0 0 0 0; box-shadow: 0 0 0 0; background: 0 0 0 0;
+  text-align: center; vertical-align: middle; line-height: 1; font-size: 1.5em; font-weight: 500; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #333; font-transform: uppercase; letter-spacing: 0.1em; text-shadow: 0 0 0.5em #333;" />
 
 ###
 
 # Overview
 
-## Introduction
+<div>
 
-Hi, my name is Ali Hatem and I am a frontend developer with a focus on building user interfaces using ReactJS. I have a strong foundation in frontend technologies such as HTML, CSS, and JavaScript, and I am always learning and staying up-to-date with the latest developments in the field. I created this GitHub account to share my projects and collaborate with other developers.
 
-## Summary of my repositories
+<p style="font-size: 1.2em; font-weight: 500; line-height: 1.5; margin: 0 0 0 0; padding: 0 0 0 0; border: 0 0 0 0; box-shadow: 0 0 0 0; background-color: #f8f8f8; border-radius: 0.5em; padding: 1em; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #333;"
+>
+Hi 🙌, my name is <strong>Ali Hatem</strong> and I am a frontend developer with a focus on building user interfaces using ReactJS. I have a strong foundation in frontend technologies such as HTML, CSS, and JavaScripts
+</p>
+<!-- 
+add animation for all body elements
+ -->
+ 
+ 
+- 🌱 I’m currently learning ReactJS, Redux, and NodeJS
 
-- My most popular repository is a ReactJS-based e-commerce platform that I built for a local small business. It features a responsive design, a secure checkout process, and integration with the business's inventory management system.
-- Another notable repository is a ReactJS-based social media app that I developed as a personal project. It has a real-time chat feature, a newsfeed, and the ability for users to create and join groups.
-- I have also contributed to several open-source ReactJS projects, including a library for creating custom dropdown menus and a tool for optimizing images for the web.
+- 👯 I’m looking to collaborate on open source projects
+- 🤔 I’m looking for help with finding a job
+- 💬 Ask me about anything
 
-## Skills and technologies
+- 📫 How to reach me: [Email](mailto:alihatemramadan5@gmail.com)
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/aliihatem-753025203/) 
 
-- Proficient in ReactJS, HTML, CSS, and JavaScript
-- Experienced with frontend build tools such as Webpack and Babel
-- Familiar with testing libraries such as Jest and Enzyme
-- Skilled at implementing responsive design and accessibility standards
-
-## Future goals
-
-- Continue to develop my skills in ReactJS and other frontend technologies
-- Collaborate with other developers on open-source projects
-- Explore opportunities to work on challenging and impactful projects as a frontend developer
-
-## Contact information
-
-- Email: [Email](mailto:alihatemramadan5@gmail.com)
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/aliihatem-753025203/)
 
 
 ###
@@ -51,4 +51,7 @@ Hi, my name is Ali Hatem and I am a frontend developer with a focus on building 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=alihatem360" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=alihatem360" height="150" alt="languages graph"  />
+
+</div>
+
 </div>
