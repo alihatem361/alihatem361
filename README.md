@@ -30,10 +30,6 @@ add animation for all body elements
 - 🔥 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/aliihatem-753025203/)
 - ⚡ Portfolio: [Portfolio](https://alihatemramadan.pages.dev/)
 
-- 📫 How to reach me: [Email](mailto:alihatemramadan5@gmail.com)
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/aliihatem-753025203/) 
-
-
 
 ###
 
