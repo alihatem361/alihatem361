@@ -23,10 +23,12 @@ add animation for all body elements
  
  
 - 🌱 I’m currently learning ReactJS, Redux, and NodeJS
-
 - 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m looking for help with finding a job
 - 💬 Ask me about anything
+- 📫 How to reach me: [Email](mailto:alihatemramadan5@gmail.com)
+- 🔥 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/aliihatem-753025203/)
+- ⚡ Portfolio: [Portfolio](https://alihatemramadan.pages.dev/)
 
 - 📫 How to reach me: [Email](mailto:alihatemramadan5@gmail.com)
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/aliihatem-753025203/) 
