@@ -73,15 +73,6 @@ add animation for all body elements
 
 ###
 
-<h3 align="left">📊 GitHub Stats</h3>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alihatem361&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866" alt="GitHub Streak" />
-</div>
-
-
-###
-
 <h3 align="left">📈 Contribution Graph</h3>
 
 <div align="center">
